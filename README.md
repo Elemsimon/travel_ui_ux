@@ -28,9 +28,9 @@ So, [watch the video now](https://youtu.be/cuzw4vL1z5E) because we’ll start si
 
 And don't overlook the fact that, by the end of this video, you'll have an impressive project ready to be featured in your portfolio and impress your friends, clients, and even potential employers.
 
-## Want to land your dream programming job in 3 - 6 months?
+<!-- ## Want to land your dream programming job in 3 - 6 months?
 ⭐ JSM Masterclass Experience - https://jsmastery.pro/masterclass
 Become a Software Engineer. Guaranteed.
 
 ### [🌐 Best Hosting for Your Websites](https://hostinger.com/javascript10)
-
+ -->
